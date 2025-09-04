@@ -9,7 +9,13 @@ This was provided by Riello (04SEP25) as GPSER11201RU
 - Netman204
 - Rack rails
 
+Network management is Observium on 172.27.6.23
+
 VLAN4 is used for power equipment, 172.27.4.0/24
+UPS221 is 172.27.4.51
+UPS222 is 172.27.4.52
+
+
 
 
  
