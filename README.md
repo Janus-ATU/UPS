@@ -1,9 +1,8 @@
 # UPS
 
-Two Riello UPS were purchased for use with Janus.
-These units have a 2 year warranty.
-PRTK number is GPSER11201RU, which is required for network management. 
-This was provided by Riello (04SEP25) as GPSER11201RU
+Two Riello UPS were purchased for use with Janus. These units have a 2 year warranty.
+
+PRTK number is GPSER11201RU, which is required for network management. This was provided by Riello (04SEP25).
 
 - Sentinel Dual SDU 5KvA Tower/Rack UPS
 - Netman204
