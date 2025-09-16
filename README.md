@@ -14,6 +14,9 @@ VLAN4 is used for power equipment, 172.27.4.0/24
 UPS221 is 172.27.4.51
 UPS222 is 172.27.4.52
 
+## Legacy UPS
+Three Riello UPS have been made available  from KMN
+
 
 
 
